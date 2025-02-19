@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnny
+- 👋 Hi, I’m @Neroxxc
 - 👀 I’m interested in Embedded Software/Hardware, FPGA, deep learning
 - 🌱 I’m currently learning Embedded Software/Hardware, FPGA
 - 📫 How to reach me 1069177287@qq.com
